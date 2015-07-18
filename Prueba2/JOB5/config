@@ -5,3 +5,4 @@ REDUCE=/home/utnso/scripts/mr-py-twitterSentiment/top-sent.pl
 COMBINER=N
 ARCHIVOS=[/root/sentiment/tweet-1.csv,/root/sentiment/tweet-2.csv,/root/sentiment/tweet-3.csv,/root/sentiment/tweet-4.csv,/root/sentiment/tweet-5.csv,/root/sentiment/tweet-6.csv,/root/sentiment/tweet-7.csv,/root/sentiment/tweet-8.csv,/root/sentiment/tweet-9.csv,/root/sentiment/tweet-10.csv,/root/sentiment/tweet-11.csv,/root/sentiment/tweet-12.csv,/root/sentiment/tweet-13.csv]
 RESULTADO=/root/output/job5/tweets-sent.csv
+BIN=N

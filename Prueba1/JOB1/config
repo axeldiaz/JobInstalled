@@ -1,7 +1,8 @@
-IP_MARTA=192.168.0.103
+IP_MARTA=192.168.1.118
 PUERTO_MARTA=4000
 MAPPER=/home/utnso/scripts/weather-mr/mapper.sh
 REDUCE=/home/utnso/scripts/weather-mr/reduce.pl
 COMBINER=C
-ARCHIVOS=[/root/mr/weather/201301hourly.txt,/root/mr/weather/201302hourly.txt,/root/mr/weather/201303hourly.txt]
+ARCHIVOS=[/root/mr/weather/201301hourly.txt,/root/mr/weather/201302hourly.txt,/root/mr/weather/201303hourly.txt,/root/mr/weather/201303hourly.txt]
 RESULTADO=/root/output/job1/max-temps.txt
+BIN=N

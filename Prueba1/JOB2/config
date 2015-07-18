@@ -1,7 +1,8 @@
-IP_MARTA=192.168.0.103
-PUERTO_MARTA=4001
+IP_MARTA=192.168.1.118
+PUERTO_MARTA=4000
 MAPPER=/home/utnso/scripts/mr-py-WordCount/map.py
 REDUCE=/home/utnso/scripts/mr-py-WordCount/reduce.py
 COMBINER=C
 ARCHIVOS=[/root/mr/textos/gutenberg.txt,/root/mr/textos/linux.txt]
 RESULTADO=/root/output/job2y3/textos-comb.txt
+BIN=N

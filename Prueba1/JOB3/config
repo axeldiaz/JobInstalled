@@ -5,3 +5,4 @@ REDUCE=/home/utnso/scripts/mr-py-WordCount/reduce.py
 COMBINER=N
 ARCHIVOS=[/root/mr/textos/gutenberg.txt,/root/mr/textos/linux.txt]
 RESULTADO=/root/output/job2y3/textos-nocomb.txt
+BIN=N

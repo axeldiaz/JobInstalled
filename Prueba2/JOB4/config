@@ -5,3 +5,4 @@ REDUCE=/home/utnso/scripts/mr-c-letterCount/reducer
 COMBINER=C
 ARCHIVOS=[/root/mr/textos/gutenberg.txt,/root/mr/textos/linux.txt,/root/mr/textos/kernel.txt]
 RESULTADO=/root/output/job4/rep-letras.txt
+BIN=N
